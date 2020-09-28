@@ -5,6 +5,11 @@
         "title": "Storefront APIs"
       },
       {
+        "type": "item",
+        "title": "Getting Started",
+        "uri": "docs/storefront-apis.md"
+      },
+      {
         "type": "group",
         "title": "Carts",
         "items": [

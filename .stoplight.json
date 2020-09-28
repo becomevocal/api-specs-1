@@ -15,6 +15,7 @@
       "json_schema": {
         "rootDir": "models",
         "include": ["**"]
-      }
+      },
+      "exclude": ["/README.md"]
     }
   }
